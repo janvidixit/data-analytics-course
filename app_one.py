@@ -28,4 +28,4 @@ if expo:
     st.success(r)      
 if mod:
     r = int(n1) // int(n2)
-    st.success(r)           
+    st.success(r)         
